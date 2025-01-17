@@ -1,0 +1,1 @@
+# 045_Szolnok_city_center_visualization
